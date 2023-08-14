@@ -1,2 +1,2 @@
 # AI-Financial-Analyst
-Number of records in Mongo: 6079529
+Number of records : 6079529
