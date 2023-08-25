@@ -3,7 +3,7 @@ Number of records : 6079529
 # Example 1
 ![image](https://github.com/abhiyant-10/Denjiro-Financial_Ninja/assets/71189932/9930cfac-5e22-410d-bfd4-04b17aaa12af)
 
-#Example 2
+# Example 2
 ![image](https://github.com/abhiyant-10/Denjiro-Financial_Ninja/assets/71189932/dfb5edf4-810c-40d3-9ecb-52d4d5bd3123)
 ## Verbose for above user query
 ![image](https://github.com/abhiyant-10/Denjiro-Financial_Ninja/assets/71189932/df14ba9e-e974-44d3-ae40-dd36f7541918)
