@@ -1,5 +1,21 @@
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 # AI-Financial-Analyst
-Number of records : 6079529
+Number of ticker records : 6079529
+Number of news articles : 196
+
+## Description
+This repository houses a financial analyst app powered by GPT-3, leveraging its advanced natural language processing capabilities. The app provides a seamless user experience through both text and voice chat functionalities.
+Utilizing an extensive database of over 6 million historic stock data records, the app offers comprehensive insights and analysis for informed decision-making. Users can input their queries, and the app employs a dot product calculation to generate accurate answers along with the associated SQL query.
+Whether you are a seasoned investor or someone looking to understand the financial market better, this app is designed to assist you in obtaining valuable information and making strategic decisions.
+
+### Features:
+- Text and voice chat interface for convenient interaction
+- Powerful GPT-3 capabilities for natural language processing
+- Access to a vast database of 6 million+ historic stock data records
+- Dot product calculation to provide precise answers and associated SQL queries
+
+
 # Example 1
 ![image](https://github.com/abhiyant-10/Denjiro-Financial_Ninja/assets/71189932/9930cfac-5e22-410d-bfd4-04b17aaa12af)
 
