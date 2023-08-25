@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # AI-Financial-Analyst
-Number of ticker records : 6079529
+Number of ticker records : 6079529    
 Number of news articles : 196
 
 ## Description
